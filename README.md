@@ -1,4 +1,4 @@
-# Project go-gorm
+# Project go-validation
 
 One Paragraph of project description goes here
 
@@ -46,4 +46,4 @@ make test
 clean up binary from the last build
 ```bash
 make clean
-```
+```# go-validation

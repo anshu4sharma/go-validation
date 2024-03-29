@@ -2,7 +2,7 @@ package tests
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"go-gorm/internal/server"
+	"go-validation/internal/server"
 	"io"
 	"net/http"
 	"testing"

@@ -2,11 +2,10 @@ package main
 
 import (
 	"fmt"
-	"go-gorm/internal/server"
+	_ "github.com/joho/godotenv/autoload"
+	"go-validation/internal/server"
 	"os"
 	"strconv"
-
-	_ "github.com/joho/godotenv/autoload"
 )
 
 func main() {
